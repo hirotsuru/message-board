@@ -1,0 +1,47 @@
+[33mcommit 6632f8580c5f09412d2dc47df8b22825f4924dbd[m
+Author: hirotsuru <hirofumi.tsuruta.314@gmail.com>
+Date:   Tue Feb 2 08:19:26 2016 +0000
+
+    save data
+
+[33mcommit 072f0fe6ddcf2c5852bc4bcff2ba9231ec4bb33a[m
+Author: hirotsuru <hirofumi.tsuruta.314@gmail.com>
+Date:   Mon Feb 1 17:32:16 2016 +0000
+
+    version submit 1
+
+[33mcommit c1ad7a45a335b8c79bcbf5cf504a213f1ed49729[m
+Author: hirotsuru <hirofumi.tsuruta.314@gmail.com>
+Date:   Mon Feb 1 14:49:26 2016 +0000
+
+    making branch
+
+[33mcommit c39c9784c5e161e1154427a94c173eef238dac3a[m
+Author: hirotsuru <hirofumi.tsuruta.314@gmail.com>
+Date:   Mon Feb 1 14:40:47 2016 +0000
+
+    using Bootstrap
+
+[33mcommit a62005b2877922ac61cfda07f69dfba20e50e52d[m
+Author: hirotsuru <hirofumi.tsuruta.314@gmail.com>
+Date:   Mon Feb 1 14:31:49 2016 +0000
+
+    create message model
+
+[33mcommit 157902075eb08dc98eee05454474b4aef104afaa[m
+Author: hirotsuru <hirofumi.tsuruta.314@gmail.com>
+Date:   Fri Jan 29 04:31:22 2016 +0000
+
+    create message model
+
+[33mcommit 6a06322101d722c87a8bcd501c52a8ad207729a4[m
+Author: hirotsuru <hirofumi.tsuruta.314@gmail.com>
+Date:   Fri Jan 29 04:30:24 2016 +0000
+
+    create messages_controller
+
+[33mcommit 1ab2fbcf11b0e53a01e8574a95d928ca370db477[m
+Author: hirotsuru <hirofumi.tsuruta.314@gmail.com>
+Date:   Fri Jan 29 02:37:03 2016 +0000
+
+    first commit
