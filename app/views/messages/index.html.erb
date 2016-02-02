@@ -12,6 +12,7 @@
   </div>
 </div>
 
+<<<<<<< HEAD
 <%= form_for(Message.new, html: {class: "form-horizontal"}) do |f| %>
   <div class="form-group">
     <%= f.label "名前:", class: "col-sm-2 control-label" %>
@@ -30,4 +31,28 @@
       <%= f.submit class: "btn btn-sm btn-primary" %>
     </div>
   </div>
+=======
+<%= form_for(@message) do |f| %>
+  <%= if @message.errors.present? %>
+    <div class="alert alert-danger">
+      <%= alert %>
+      <ul>
+        <% @message.errors.full_messages.each do |full_message| %>
+          <li>
+            <%= full_message %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+  <div class="form-group">
+    <%= f.label "名前:" %>
+    <%= f.text_area :name, class: "form-control", rows: 1 %>
+  </div>
+  <div class="form-group">
+    <%= f.label "内容:" %>
+    <%= f.text_area :body, class: "form-control", rows: 3 %>
+  </div>
+    <%= f.submit class: "btn btn-sm btn-primary" %>
+>>>>>>> 6632f8580c5f09412d2dc47df8b22825f4924dbd
 <% end %>
